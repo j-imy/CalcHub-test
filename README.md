@@ -2,6 +2,8 @@
 
 <h3 align="center">This Open-Source repository is all about making new calculators on different aspects of Mathematics.</h3>
 
+
+
 <div align="center">
 <a href="https://github.com/vasu-1/CalcHub"><img src="https://sloc.xyz/github/vasu-1/CalcHub" alt="total lines"/></a>
 <a href="https://github.com/vasu-1/CalcHub"><img src="https://img.shields.io/github/stars/vasu-1/CalcHub" alt="Stars"/></a>
@@ -115,5 +117,7 @@ This project exists thanks to all the people who contribute.
 <a href="graphs/contributors"><img src="https://contrib.rocks/image?repo=vasu-1/CalcHub" /></a>
 
 ## Contribution is fun! 🧡
+
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
